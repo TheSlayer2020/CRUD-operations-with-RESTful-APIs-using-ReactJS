@@ -1,0 +1,46 @@
+body{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-image: url(city.gif);
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-style: italic;
+}
+
+div{
+  text-align:center;
+  max-width: 100%;
+  min-width: 140px;
+  margin: auto;
+  width: 40%;
+  margin: 100px auto;
+  border-radius: 10px;
+}
+
+button{
+  height: 70px;
+  width: 70px;
+  border-radius: 90%;
+  border-color: 	rgb(255,0,0);
+  border-style: double;
+  background-color: blanchedalmond;
+  margin-top: 10px; /* Adjust the value as needed */
+}
+
+h2{
+  background-color: rgb(84, 161, 228);
+  border-radius: 10px;
+  color: aliceblue;
+}
+
+input {
+  background-color: white ;
+  border-radius: 10px;
+  text-align: center;
+}
+
+textarea {
+  background-color: white;
+  border-radius: 10px;
+  text-align: center;
+  margin-top: 10px; /* Adjust the value as needed */
+}
